@@ -1,4 +1,4 @@
 # website
 my website lol
 
-[Website](jagadarsh.dev/)
+[Website](https://jagadarsh.dev/)
